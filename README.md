@@ -5,7 +5,7 @@ Studerer informatikk og bygger prosjekter på fritiden for å lære og prøve ut
 
 ## Stack
 
-**Backend:** Java 21, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL
+**Backend:** Java 21, Spring Boot, Node.js, Next.js Spring Data JPA, Hibernate, PostgreSQL
 
 **Frontend:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui
 
