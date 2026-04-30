@@ -16,7 +16,7 @@ Studerer informatikk og bygger prosjekter på fritiden for å lære og prøve ut
 ## Prosjekter
 
 ### [CRM-system](https://github.com/OlaWold/CRM-system)
-Webbasert CRM for håndtering av kunder, tickets, kontakter og notater.
+Webbasert CRM for håndtering av kunder, tickets, kontakter, notater og AI-hjelp til brukeren.
 Videreutvikling av et studieprosjekt med fokus på en realistisk domene-modell og ryddig REST-API.
 
 - **Backend:** Spring Boot 4 (Java 21), Spring Data JPA, PostgreSQL
