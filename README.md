@@ -11,6 +11,8 @@ Studerer informatikk og bygger prosjekter på fritiden for å lære og prøve ut
 
 **Verktøy:** Maven, Git, IntelliJ, VS Code
 
+**AI-verktøy:** Claude CLI og Codex
+
 ## Prosjekter
 
 ### [CRM-system](https://github.com/OlaWold/CRM-system)
